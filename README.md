@@ -1,3 +1,26 @@
-<!-- portfolio-image: ![image](https://github.com/Charlesreilly0/Portfolio-Website/assets/142245908/429b0e3e-31be-4abc-b8fe-3fff8e23e6a4)-->
+# Project Title
+
+This is a more detailed description of your project. You can talk about the purpose, features, and how to use it.
+
+![Project Image](https://github.com/Charlesreilly0/Portfolio-Website/assets/142245908/51f23b84-9779-499c-bebe-0a4593618858)
+
+<!-- portfolio-image: ![Project Image](https://github.com/Charlesreilly0/Portfolio-Website/assets/142245908/51f23b84-9779-499c-bebe-0a4593618858)-->
 <!-- portfolio-brief: This is a short description of the project. -->
-![image](https://github.com/Charlesreilly0/Portfolio-Website/assets/142245908/112e584b-7dd9-48be-9c65-7728f6c7d7a3)
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+
+Instructions on how to install and use the project.
+
+## Usage
+
+Examples of how to use the project.
+
+## License
+
+Information about the license.
